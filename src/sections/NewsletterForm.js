@@ -53,7 +53,7 @@ const NewsletterForm = () => {
                 <div style={{ display: 'flex', width: '100%', justifyContent: 'space-around' }}>
                 <a href="https://pancakeswap.finance/swap" target={"_blank"}><Image src={pancake} alt="pancakeswap" style={{width: '40px'}} /></a>
                 <a target={"_blank"} href="https://poocoin.app/"><Image src={poocoin} alt="pancakeswap" style={{width: '40px'}} href="https://poocoin.app/"/></a>
-                <a href="https://t.me/spoodermanbsc" target={"_blank"}><Image  src={telegram} alt="telegram" style={{width: '50px'}} /></a>
+                <a href="https://t.me/munchkinofficial" target={"_blank"}><Image  src={telegram} alt="telegram" style={{width: '50px'}} /></a>
                 </div>
             </div>
         </div>
